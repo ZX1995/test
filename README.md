@@ -1,1 +1,2 @@
 # test
+I love :banana:
